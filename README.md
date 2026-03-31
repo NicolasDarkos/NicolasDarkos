@@ -19,7 +19,20 @@ I'm passionate abouts games, art, rpg, and other "nerds" things.
 
 ## Art tool 
 <div display="inline-block">
-    ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)" />       
+   <p align="left"> <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black"/> </p>    
 </div>
+
+## ⚡ Fun facts
+🧠 I learn by building things
+🎲 RPG lover (tabletop & digital)
+🕹️ Indie games inspire me the most
+💡 Dream: launch my own game someday
+
+##📊 GitHub Stats (opcional, mas deixa MUITO mais interessante)
+<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/> </p>
+
+##🚀 Future goals
+✔️ Publish my first game
+✔️ Improve my art skills
+✔️ Work in the game industry
 
