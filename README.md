@@ -19,12 +19,16 @@ I'm passionate abouts games, art, rpg, and other "nerds" things.
 </div>
 
 ## ⚡ Fun facts
-🎲 RPG lover (tabletop & digital)
-🕹️ Indie games inspire me the most
-💡 Dream: Making people's day better and mark their lifes, even if it's just a little bit, is enough for me.
+<div>
+   <p>🎲 RPG lover (tabletop & digital)</p>
+   <p>🕹️ Indie games inspire me the most</p>
+   <p>💡 Dream: Making people's day better and mark their lifes, even if it's just a little bit, is enough for me.</p>
+</div>
 
-##🚀 Future goals
-✔️ Publish my first game
-✔️ Improve my art skills
-✔️ Work in the game industry
+## 🚀 Future goals
+<div>
+   <p>✔️ Publish my first game</p>
+   <p>✔️ Improve my art skills</p>
+   <p>✔️ Work in the game industry</p>
+</div>div>
 
