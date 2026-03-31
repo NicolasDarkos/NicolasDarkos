@@ -4,10 +4,6 @@
 <p align="justify"> Hey! My name is Nícolas, but you can call me <b>Darkos</b> :P.<br> I'm from Santa Maria, Rio Grande do Sul, Brazil 🇧🇷, and I was born in 2008. </p> <p align="justify"> 🎓 Currently studying <b>Computer Science at UFSM</b> 🎮 Aspiring <b>Game Developer</b> & 🎨 <b>Artist</b> </p> <p align="justify"> I love creating games, drawing, RPGs, and all kinds of nerd stuff. I'm always trying to improve and push my limits 🚀 </p>
 
 <p align="justify">
-📚 Studying Computer Science at UFSM.
-</p>
-
-<p align="justify">
 I'm passionate abouts games, art, rpg, and other "nerds" things. 
 </p>
 
