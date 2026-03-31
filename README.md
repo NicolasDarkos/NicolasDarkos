@@ -39,3 +39,4 @@ I'm passionate abouts games, art, rpg, and other "nerds" things.
 <div display="inline-block">
     <img align="center" alt="Aseprite" src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white (https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)"/>
 </div>
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
