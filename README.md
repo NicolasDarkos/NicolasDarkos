@@ -38,4 +38,5 @@ I'm passionate abouts games, art, rpg, and other "nerds" things.
 <div display="inline-block">
     ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 </div>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
