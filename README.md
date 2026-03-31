@@ -1,17 +1,20 @@
-## Hi there 👋
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Made With GameMaker](https://img.shields.io)
-<!--
-**NicolasDarkos/NicolasDarkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi dude 👋
 
-Here are some ideas to get you started:
+### About me
+<!-- <img style="width:256px; border-radius:50%; margin: 1rem;" align="right" alt="" src=""/> -->
+<p align="justify">
+My name is Nícolas, but you can call me Darkos :P. I am from Santa Maria, Rio Grande do Sul, Brazil, and I was born in 2008. I'm an aspiring game dev and artist, just like, I know I not the best, but I try my best in anything that I do.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify">
+Studying Computer Science at UFSM.
+</p>
+
+<p align="justify">
+I'm passionate abouts games, art, rpg, and other "nerds" things. 
+</p>
+
+## Find me through
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.d4rkos@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolas_darkos/)
