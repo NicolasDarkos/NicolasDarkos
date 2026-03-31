@@ -21,7 +21,7 @@ I'm passionate abouts games, art, rpg, and other "nerds" things.
 
 ## Game engines that I use in my games
 <div display="inline-block">
-<img src="{	https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white}" />       
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />       
 </div>
 
 ## Art tool 
